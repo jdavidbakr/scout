@@ -228,7 +228,6 @@ class Builder
      * Add an "orderByDesc" for the search query.
      *
      * @param  string  $column
-     * @param  string  $direction
      * @return $this
      */
     public function orderByDesc($column)
