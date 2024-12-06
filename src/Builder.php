@@ -225,7 +225,7 @@ class Builder
     }
 
     /**
-     * Add an "orderByDesc" for the search query.
+     * Add a descending "order by" clause to the search query.
      *
      * @param  string  $column
      * @return $this
